@@ -1,3 +1,4 @@
+%2x³+10x+1
 from numpy import *
 p=poly1d([3,0,0,1,1])
 print(p)
